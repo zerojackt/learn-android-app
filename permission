@@ -1,0 +1,4 @@
+오늘은 permission 을 어떻게 받는냐. 다운그레이드 하는것도 방법이지만
+error 가 뜨기도 하고 여튼 29 버전을 쓸거기 때문에 22 버전이후에는
+이렇게 해야한다. ActivityCom ... permission : receiver sms
+if 와 switch 문이 많이들어가더라. 복습이 필요하다.
